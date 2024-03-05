@@ -1,0 +1,7 @@
+{
+    "dev": {
+        "url": "https://openweathermap.org/api",
+        "seedData": "devData.json",
+        "baseUrl": "https://api.openweathermap.org"
+    }
+}
